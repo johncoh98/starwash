@@ -1,14 +1,14 @@
 "use strict";
 exports.__esModule = true;
 var head_1 = require("next/head");
-var About_1 = require("../components/About");
-var Contact_1 = require("../components/Contact");
-var Footer_1 = require("../components/Footer");
-var Header_1 = require("../components/Header");
-var Navbar_1 = require("../components/Navbar");
-var TariffPage_1 = require("../components/TariffPage");
+var About_1 = require("../../components/dist/About");
+var Contact_1 = require("../../components/dist/Contact");
+var Footer_1 = require("../../components/dist/Footer");
+var Header_1 = require("../../components/dist/Header");
+var Navbar_1 = require("../../components/dist/Navbar");
+var TariffPage_1 = require("../../components/dist/TariffPage");
 var react_1 = require("react");
-var PageLoader_1 = require("../components/PageLoader");
+var PageLoader_1 = require("../../components/dist/PageLoader");
 function Home() {
     var _a = react_1.useState(true), loading = _a[0], setLoading = _a[1];
     react_1.useEffect(function () {
