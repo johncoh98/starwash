@@ -24,7 +24,7 @@ var Contact = function () {
                 react_1["default"].createElement("p", { className: "text-zinc-50 mb-4" },
                     react_1["default"].createElement(fa_1.FaPhone, { className: "inline-block mr-2 text-cyan-400" }),
                     " ",
-                    react_1["default"].createElement("a", { href: "tel:+33604080808", className: 'hover:text-cyan-700' }, "06 04 09 09 09")),
+                    react_1["default"].createElement("a", { href: "tel:+33604090909", className: 'hover:text-cyan-700' }, "06 04 09 09 09")),
                 react_1["default"].createElement("p", { className: "text-zinc-50 mb-4" },
                     react_1["default"].createElement("a", { href: "https://wa.me/33604090909", className: 'hover:text-cyan-700' },
                         react_1["default"].createElement(fa_1.FaWhatsapp, { className: "inline-block mr-2 text-cyan-400" }),

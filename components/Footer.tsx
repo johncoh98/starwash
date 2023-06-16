@@ -11,7 +11,7 @@ const Footer = () => {
           <p className="text-gray-500">10 av Faidherbe 93260 les Lilas</p>
         </div>
         <div className="flex items-center">
-          <a href="tel:+33123456789" className="mr-6 text-cyan-600 hover:text-cyan-800">
+          <a href="tel:+33604090909" className="mr-6 text-cyan-600 hover:text-cyan-800">
             <FaPhone className="inline-block mr-1" />
             06 04 09 09 09
           </a>
