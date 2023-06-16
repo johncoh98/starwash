@@ -10,7 +10,7 @@ var Footer = function () {
                 React.createElement("p", { className: "text-gray-500" }, "1 bd eugene decros 93260 Les Lilas"),
                 React.createElement("p", { className: "text-gray-500" }, "10 av Faidherbe 93260 les Lilas")),
             React.createElement("div", { className: "flex items-center" },
-                React.createElement("a", { href: "tel:+33123456789", className: "mr-6 text-cyan-600 hover:text-cyan-800" },
+                React.createElement("a", { href: "tel:+33604090909", className: "mr-6 text-cyan-600 hover:text-cyan-800" },
                     React.createElement(fa_1.FaPhone, { className: "inline-block mr-1" }),
                     "06 04 09 09 09"),
                 React.createElement("a", { href: "mailto:contact@masociete.com", className: "text-cyan-600 hover:text-cyan-800" },

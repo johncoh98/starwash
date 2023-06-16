@@ -11,7 +11,7 @@ var Header = function () {
                     react_1["default"].createElement("button", { className: 'relative top-32 z-10 px-6 py-3px-6 py-3 bg-white text-black hover:bg-cyan-300 rounded-md font-medium' },
                         "R\u00E9servez",
                         react_1["default"].createElement("div", { className: 'absolute inset-0 bg-black opacity-0 hover:opacity-30 rounded-md' }))),
-                react_1["default"].createElement("a", { href: "tel:+33604080808" },
+                react_1["default"].createElement("a", { href: "tel:+33604090909" },
                     react_1["default"].createElement("button", { className: 'relative top-32 z-10 px-6 py-3 bg-white text-black hover:bg-cyan-300   rounded-md font-medium' },
                         "Appelez-Nous",
                         react_1["default"].createElement("div", { className: 'absolute inset-0 bg-black opacity-0 hover:opacity-30 rounded-md' })))))));

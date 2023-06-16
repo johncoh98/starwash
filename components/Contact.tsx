@@ -22,7 +22,7 @@ const Contact = () => {
       <div className="px-8">  
         <h2 className="text-2xl pr-32 md:pr-0 font-bold text-zinc-50 mb-2">Contactez-nous</h2>
         <p className="text-zinc-50 mb-4">
-          <FaPhone className="inline-block mr-2 text-cyan-400" /> <a href="tel:+33604080808" className='hover:text-cyan-700'>06 04 09 09 09</a>
+          <FaPhone className="inline-block mr-2 text-cyan-400" /> <a href="tel:+33604090909" className='hover:text-cyan-700'>06 04 09 09 09</a>
         </p>
         <p className="text-zinc-50 mb-4">
        <a href="https://wa.me/33604090909" className='hover:text-cyan-700'><FaWhatsapp className="inline-block mr-2 text-cyan-400"/>Whatsapp</a>
